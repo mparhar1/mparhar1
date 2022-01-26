@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi There! | Salut! | Hiya! | Olá! | Kumusta! | こんにちは!
 
 - 🔭 I’m currently working on exploring different Python3 modules
 - 🌱 I’m currently starting to learn front-end web development and machine learning
