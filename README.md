@@ -5,4 +5,3 @@
 - 👯 I’m looking to join the growing Canadian tech scene
 - 🤔 I’m looking for help or suggestions with any of the above
 - 📫 How to reach me: michaelparhar@gmail.com or https://www.linkedin.com/in/michaelparhar/
-- 😄 Pronouns: He/Him
