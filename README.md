@@ -1,4 +1,4 @@
-### 👋 Hi There! | Salut! | ਸਤ ਸ੍ਰੀ ਅਕਾਲ | Hola!
+### 👋 Hi There!
 
 - 🔭 I’m currently working on exploring different Java modules
 - 🌱 I’m currently starting to learn web development with JavaScript and the REACT library
