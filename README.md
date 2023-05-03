@@ -1,7 +1,11 @@
-### 👋 Hi There!
+## 👋 Hi There!
 
-- 🔭 I’m currently working on exploring different Java modules
-- 🌱 I’m currently starting to learn web development with JavaScript and the REACT library
-- 👯 I’m looking to join the growing Canadian tech scene
-- 🤔 I’m looking for help or suggestions with any of the above
-- 📫 How to reach me: michaelparhar@gmail.com or https://www.linkedin.com/in/michaelparhar/
+### 😊 A bit about me...
+- 📖 I'm an Electrical Engineering student at the University of British Columbia (UBC)
+- 🔭 Currently exploring different web development libraries and JavaScript frameworks such as Angular and ReactJS
+- 🌱 Looking to join the growing Canadian tech scene and contribute to innovative projects
+- 🤔 I’m looking for help or suggestions with any of the above, as well as mentorship and collaboration opportunities
+
+### 📫 How to reach me:
+- 📧 E-mail: michaelparhar@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/michaelparhar/
